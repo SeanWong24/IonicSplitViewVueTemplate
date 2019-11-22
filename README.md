@@ -1,0 +1,2 @@
+# IonicSplitViewVueTemplate
+Created with CodeSandbox
