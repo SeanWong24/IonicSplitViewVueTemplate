@@ -54,6 +54,10 @@ ion-row {
   height: 100%;
 }
 
+ion-col {
+  height: 100%;
+}
+
 ion-card {
   height: 100%;
   margin: 0;
